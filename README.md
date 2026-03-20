@@ -1,2 +1,1 @@
-class account: 
-    """Classd to represent a bank account"""
+Lets code ATM Business 
